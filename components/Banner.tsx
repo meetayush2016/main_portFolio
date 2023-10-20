@@ -41,7 +41,7 @@ const Banner = () => {
         I am a web developer and Cyber security enthusiast. I have a
         strong foundation in front-end development and am skilled in
         creating user-friendly and responsive web applications using React and
-        its ecosystem.{" "}
+        its and ecosystem.{" "}
         <a href="https://www.linkedin.com/in/ayush-s-abb331128/" target="_blank">
           {" "}
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">

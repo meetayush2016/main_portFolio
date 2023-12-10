@@ -34,7 +34,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">AyushSaizer</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-          "Saizer," an open-source article summarizer that efficiently condenses
+          Saizer, an open-source article summarizer that efficiently condenses
              lengthy articles into concise and clear  {" "}
               <span className="text-textGreen">summaries.</span>  
             </p>
@@ -90,7 +90,7 @@ const Projects = () => {
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
             Established a compact virtualized home lab for honing offensive security expertise, comprising 
-            an attacker's system and a vulnerable {" "}
+            an attackers system and a vulnerable {" "}
               <span className="text-textGreen">web server.</span> 
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">

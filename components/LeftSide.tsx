@@ -1,13 +1,7 @@
 import { TbBrandGithub } from "react-icons/tb";
-import{SiLeetcode} from "react-icons/Si"; 
+import{SiLeetcode} from "react-icons/si"; 
 
-import {
-  SlSocialLinkedin,
-  SlSocialFacebook,
-  SlSocialInstagram,
-  
-  
-} from "react-icons/sl";
+import { SlSocialLinkedin } from "react-icons/sl";
 
 const LeftSide = () => {
   return (

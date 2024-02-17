@@ -13,11 +13,11 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Hello! I'm Ayush, a dedicated creator of digital marvels in the vast realm of the internet. My journey into the captivating world of web development commenced during my first year in college, and I've been passionately honing my skills ever since. Currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Digital Forensics at VIT Bhopal, I find immense joy in unraveling the intricacies of networks and web technologies.
+          Hello! Im Ayush, a dedicated creator of digital marvels in the vast realm of the internet. My journey into the captivating world of web development commenced during my first year in college, and Ive been passionately honing my skills ever since. Currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Digital Forensics at VIT Bhopal, I find immense joy in unraveling the intricacies of networks and web technologies.
 
           My comprehensive understanding of these domains has fueled my expertise in both cybersecurity and web development. <span className="text-textGreen"> I take pride in my ability to navigate the intricate landscape of cyber threats and seamlessly translate that knowledge into robust web solutions.</span>
 
-          In addition to my academic pursuits, I've earned certification in cloud technologies, a testament to my commitment to staying at the forefront of technological advancements. Feel free to explore my certification and the technologies I've mastered in the respective sections below.
+          In addition to my academic pursuits, Ive earned certification in cloud technologies, a testament to my commitment to staying at the forefront of technological advancements. Feel free to explore my certification and the technologies Ive mastered in the respective sections below.
           
           </p>
           

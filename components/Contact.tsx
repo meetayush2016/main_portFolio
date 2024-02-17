@@ -19,7 +19,7 @@ const Contact = () => {
         +91 8700893543
       </p>
       <p className="font-titleFont text-lg text-textGreen font-semibold flex items-center tracking-wide">
-        meetayush2016@gmail.com
+        itsayush2252@gmail.com
       </p>
 
       <a href="mailto:noor.jsdivs@gmail.com">

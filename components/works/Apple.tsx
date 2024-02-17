@@ -22,8 +22,7 @@ const Apple = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-          distinctio doloribus quas ex ea sed.
+          CISCO certfication in cyber security 
         </li>
         {/* <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">

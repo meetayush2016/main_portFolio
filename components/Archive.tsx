@@ -66,7 +66,7 @@ const Archive = () => {
               />
             </motion.div>
           </>
-        )}S
+        )}
       </div>
       <div className="mt-12 flex items-center justify-center">
         {showMore ? (

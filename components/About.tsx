@@ -13,29 +13,15 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Ayush  and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
+          Hello! I'm Ayush, a dedicated creator of digital marvels in the vast realm of the internet. My journey into the captivating world of web development commenced during my first year in college, and I've been passionately honing my skills ever since. Currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Digital Forensics at VIT Bhopal, I find immense joy in unraveling the intricacies of networks and web technologies.
+
+          My comprehensive understanding of these domains has fueled my expertise in both cybersecurity and web development. <span className="text-textGreen"> I take pride in my ability to navigate the intricate landscape of cyber threats and seamlessly translate that knowledge into robust web solutions.</span>
+
+          In addition to my academic pursuits, I've earned certification in cloud technologies, a testament to my commitment to staying at the forefront of technological advancements. Feel free to explore my certification and the technologies I've mastered in the respective sections below.
+          
           </p>
-          <p>
-            Fast-forward to today, and I had the privilege of working at an
-            advertising agency, a start-up,{" "}
-            <span className="text-textGreen">
-              a huge corporation, and a student-led design studio.
-            </span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
-            accusantium fugiat veritatis, quidem repellat{" "}
-            <span className="text-textGreen">
-              ab natus possimus? Sint, accusamus!
-            </span>
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
-            recusandae.
-          </p>
+          
+          
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">

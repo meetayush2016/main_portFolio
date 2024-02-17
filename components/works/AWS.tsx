@@ -23,8 +23,7 @@ const AWS = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-          distinctio doloribus quas ex ea sed.
+          I completed my externship in ethical hacking and penitration testing
         </li>
         {/* <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
